@@ -59,6 +59,17 @@ const GALLERY_IMAGES = [
   { src: 'gallery/515864430_23992751193748527_7596772384781594338_n.jpg', caption: '' },
   { src: 'gallery/515977583_23992735810416732_4429371010267542772_n.jpg', caption: '' },
   { src: 'gallery/552793884_10228840712015016_7609343185078158228_n.jpg', caption: '' },
+  { src: 'gallery/20200322_115120.jpg', caption: '' },
+  { src: 'gallery/20200322_115224.jpg', caption: '' },
+  { src: 'gallery/20200322_115232.jpg', caption: '' },
+  { src: 'gallery/20200518_115445.jpg', caption: '' },
+  { src: 'gallery/20200520_235846.jpg', caption: '' },
+  { src: 'gallery/20200528_174048.jpg', caption: '' },
+  { src: 'gallery/20200529_182601.jpg', caption: '' },
+  { src: 'gallery/20201011_000139.jpg', caption: '' },
+  { src: 'gallery/IMG-20200618-WA0004.jpg', caption: '' },
+  { src: 'gallery/IMG-20200618-WA0008.jpg', caption: '' },
+  { src: 'gallery/IMG-20200618-WA0013.jpg', caption: '' },
 ];
 
 const galleryGrid = document.getElementById('galleryGrid');
